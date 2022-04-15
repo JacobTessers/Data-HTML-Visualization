@@ -13,3 +13,6 @@ GROUP BY
   year
   ORDER BY year;
 A similar SQL query retrieved the sum of people named John.
+
+
+The dashboard can be seen [here](https://jacobtessers.github.io/graces_and_johns)
