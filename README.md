@@ -1,4 +1,4 @@
-# graces_and_johns
+# Graces and Johns
 
 ##The data for this notebook comes from BigQuery public data set.
 
